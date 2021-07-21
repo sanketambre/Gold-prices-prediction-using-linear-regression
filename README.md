@@ -11,4 +11,4 @@ Detecting the gold price gives us the brief idea that what will be the price.By 
 * [Linear Regression Model](#linearregressionmodel)
 
 ## Contributor
-* [Sanket Suresh Ambre]
+* [Sanket Suresh Ambre](https://github.com/sanketambre)
